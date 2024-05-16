@@ -24,7 +24,7 @@ export default async function Home() {
             </span>
 
             <h1 className="mt-8 text-3xl font-extrabold tracking-tight lg:text-6xl">
-              Receba alertas de fotes chuvas em sua região
+              Receba alertas de fortes chuvas em sua região
             </h1>
 
             <p className="max-w-xl mx-auto mt-8 text-base lg:text-xl text-secondary-foreground">
