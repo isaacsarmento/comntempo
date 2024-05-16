@@ -32,7 +32,7 @@ const Navbar = async (props: Props) => {
               </LoginLink>
 
               <RegisterLink postLoginRedirectURL='/mapa'>
-                <Button variant="secondary">Registrar</Button>
+                <Button variant="secondary" className="hidden lg:flex">Registrar</Button>
               </RegisterLink>
             </div>
           )}

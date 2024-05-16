@@ -13,7 +13,8 @@ export default async function Home() {
   }
 
   return (
-    <section className="flex items-center justify-center bg-background h-[90vh]">
+
+    <section className="flex items-center justify-center bg-background h-[90vh] overflow-hidden">
       <div className="relative items-center w-full px-5 py-12 mx-auto lg:px-16 max-w-7xl md:px-12">
         <div className="max-w-3xl mx-auto text-center">
           <div>
@@ -32,7 +33,7 @@ export default async function Home() {
             </p>
 
             <div className="flex justify-center max-w-sm mx-auto mt-10">
-              <RegisterLink>
+              <RegisterLink postLoginRedirectURL='/mapa'>
                 <Button size="lg" className="w-full">Acesse o mapa agora!</Button>
               </RegisterLink>
             </div>
