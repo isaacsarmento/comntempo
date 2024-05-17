@@ -29,7 +29,7 @@ export default async function Home() {
             </h1>
 
             <p className="max-w-xl mx-auto mt-8 text-base lg:text-xl text-secondary-foreground">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam eos voluptatem porro laborum dolorem nesciunt nisi. Dicta 
+              O Olha a Chuva veio para monitorar e informar moradores da vizinhança a respeito das cheias das águas, por meio de dados colhidos da comunidade através da plataforma.
             </p>
 
             <div className="flex justify-center max-w-sm mx-auto mt-10">
