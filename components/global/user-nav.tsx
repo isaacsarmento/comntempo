@@ -49,7 +49,7 @@ function UserNav({name, email, image}: {name: string, email: string, image: stri
           className="w-full flex justify-between items-center"
           asChild
         >
-          <LogoutLink postLogoutRedirectURL="*">
+          <LogoutLink postLogoutRedirectURL="/">
             Sair{" "}
             <span>
               <DoorClosed className="w-4 h-4" />

@@ -17,7 +17,7 @@ const Navbar = async (props: Props) => {
             <Link
                 href="/"
             >
-                <h1 className='font-bold text-3xl'>olhaa<span className='text-primary'>chuva.</span></h1>
+                <h1 className='font-bold text-3xl'>comn<span className='text-primary'>tempo.</span></h1>
             </Link>
 
             <div className='flex items-center gap-x-5'>

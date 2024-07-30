@@ -7,7 +7,7 @@ import Navbar from "@/components/global/navbar";
 const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Olha a Chuva!",
+  title: "Comntempo - A comunidade contra fortes chuvas!",
   description: "Fique informado sobre os riscos de inundações. Se atualize em tempo real sobre áreas propensas a enchentes. Mantenha-se seguro e informado!",
 };
 
